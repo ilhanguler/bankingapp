@@ -1,0 +1,6 @@
+İlhan GÜLER,Kredi Kartı Limit,Limit Yenileme,5000.005100 0100 0000 0015
+İlhan GÜLER,Kredi,İhtiyaç,10000.00
+4000 0100 0000 0027
+Mehmet Ali KALAS,Kredi,Konut,100000.00
+4000 0100 0000 0027
+Mehmet Ali KALAS,Kredi,İhtiyaç,100000.00
