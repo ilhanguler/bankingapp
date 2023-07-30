@@ -1,0 +1,4 @@
+5100 0100 0000 0015
+İlhan GÜLER,Kredi,Konut,20000.00
+5100 0100 0000 0015
+İlhan GÜLER,Kredi,Kurumsal,100000.00
