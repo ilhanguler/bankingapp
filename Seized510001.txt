@@ -6,3 +6,5 @@ Market Pos,-12.60;Sanal Market,-31.55;
 ;
 5100 0100 0000 0049
 Market Pos,-16.15;Sanal Market,-23.50;
+5100 0100 0000 0057
+;
